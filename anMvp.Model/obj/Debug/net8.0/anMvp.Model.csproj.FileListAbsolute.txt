@@ -1,0 +1,12 @@
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\anMvp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\anMvp.Model.AssemblyInfoInputs.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\anMvp.Model.AssemblyInfo.cs
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\anMvp.Model.csproj.CoreCompileInputs.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\bin\Debug\net8.0\anMvp.Model.deps.json
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\bin\Debug\net8.0\anMvp.Model.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\bin\Debug\net8.0\anMvp.Model.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\anMvp.Model.csproj.AssemblyReference.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\anMvp.Model.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\refint\anMvp.Model.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\anMvp.Model.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Model\obj\Debug\net8.0\ref\anMvp.Model.dll

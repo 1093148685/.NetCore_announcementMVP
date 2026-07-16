@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Service\\anMvp.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\anMvp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\anMvp.Model.csproj",
+        "projectName": "anMvp.Model",
+        "projectPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\anMvp.Model.csproj",
+        "packagesPath": "C:\\Users\\卢泓锦\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\卢泓锦\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlSugar": {
+              "target": "Package",
+              "version": "[5.1.4.207, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Repository\\anMvp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Repository\\anMvp.Repository.csproj",
+        "projectName": "anMvp.Repository",
+        "projectPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Repository\\anMvp.Repository.csproj",
+        "packagesPath": "C:\\Users\\卢泓锦\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\卢泓锦\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\anMvp.Model.csproj": {
+                "projectPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\anMvp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlSugar": {
+              "target": "Package",
+              "version": "[5.1.4.207, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Service\\anMvp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Service\\anMvp.Service.csproj",
+        "projectName": "anMvp.Service",
+        "projectPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Service\\anMvp.Service.csproj",
+        "packagesPath": "C:\\Users\\卢泓锦\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\卢泓锦\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\anMvp.Model.csproj": {
+                "projectPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Model\\anMvp.Model.csproj"
+              },
+              "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Repository\\anMvp.Repository.csproj": {
+                "projectPath": "D:\\VisualStudio\\projects\\WebApplication1\\anMvp.Repository\\anMvp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlSugar": {
+              "target": "Package",
+              "version": "[5.1.4.207, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "anMvp.Comman/1.0.0": {
+        "runtime": {
+          "anMvp.Comman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "anMvp.Comman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

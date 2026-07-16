@@ -1,0 +1,11 @@
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\bin\Debug\net8.0\anMvp.Comman.deps.json
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\bin\Debug\net8.0\anMvp.Comman.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\bin\Debug\net8.0\anMvp.Comman.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\anMvp.Comman.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\anMvp.Comman.AssemblyInfoInputs.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\anMvp.Comman.AssemblyInfo.cs
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\anMvp.Comman.csproj.CoreCompileInputs.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\anMvp.Comman.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\refint\anMvp.Comman.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\anMvp.Comman.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Comman\obj\Debug\net8.0\ref\anMvp.Comman.dll

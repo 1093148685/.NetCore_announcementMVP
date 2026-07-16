@@ -1,0 +1,17 @@
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\bin\Debug\net8.0\anMvp.Service.deps.json
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\bin\Debug\net8.0\anMvp.Service.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\bin\Debug\net8.0\anMvp.Service.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\bin\Debug\net8.0\anMvp.Model.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\bin\Debug\net8.0\anMvp.Repository.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\bin\Debug\net8.0\anMvp.Model.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\bin\Debug\net8.0\anMvp.Repository.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Service.csproj.AssemblyReference.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Service.AssemblyInfoInputs.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Service.AssemblyInfo.cs
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Service.csproj.CoreCompileInputs.cache
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Se.DFFD3576.Up2Date
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Service.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\refint\anMvp.Service.dll
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\anMvp.Service.pdb
+D:\VisualStudio\projects\WebApplication1\anMvp.Service\obj\Debug\net8.0\ref\anMvp.Service.dll

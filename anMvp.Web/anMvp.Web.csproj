@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.7.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="SqlSugar" Version="5.1.4.207" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\Portal\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\anMvp.Comman\anMvp.Comman.csproj" />
+    <ProjectReference Include="..\anMvp.Model\anMvp.Model.csproj" />
+    <ProjectReference Include="..\anMvp.Repository\anMvp.Repository.csproj" />
+    <ProjectReference Include="..\anMvp.Service\anMvp.Service.csproj" />
+  </ItemGroup>
+	
+</Project>
